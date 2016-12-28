@@ -19,3 +19,5 @@ RUN apt-get install -y irkernel
 RUN apt-get install -y iruby
 RUN apt-get install -y gophernotes
 
+CMD ["jupyter", "notebook", "--port=8888", "--no-browser", "--ip=0.0.0.0"]
+
