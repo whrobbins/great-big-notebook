@@ -22,7 +22,7 @@ After running the command, you can simply navigate to localhost:8888 in a browse
 * Ruby
 * Go
 
-There are a lot more Jupyter kernels available that I just don't have a use for.  Feel free to help out by adding more kernels or libraries.
+There are a lot more Jupyter kernels available that I just don't have a use for.  Feel free to help out by adding [more kernels](https://github.com/ipython/ipython/wiki/IPython-kernels-for-other-languages) or libraries.
 
 
 ### How To Manually Build A Container From This Repo
